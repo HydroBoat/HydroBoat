@@ -1,0 +1,2 @@
+# HydroBoat
+A mob plugin
